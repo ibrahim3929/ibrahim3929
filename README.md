@@ -76,6 +76,10 @@ I am a student of **Entrepreneurship & Management at Riga Technical University**
 
 ---
 
+📂 [View My Full Portfolio Here](https://github.com/ibrahim3929/Portfolio)  
+🌐 [Portfolio Website](https://ibrahim3929.github.io/Portfolio)  
+---
+
 ## 📬 Contact  
 - **Email:** muhammed004414@gmail.com  
 - **LinkedIn:** [Ibrahim Muhamad Liyakath Ali](https://www.linkedin.com/in/ibrahim-muhamad-liyakath-ali-263a50315/)  
